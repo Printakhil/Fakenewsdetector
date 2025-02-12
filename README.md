@@ -1,0 +1,2 @@
+# Fakenewsdetector
+Detect Fake news
